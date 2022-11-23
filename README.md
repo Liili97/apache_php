@@ -1,4 +1,4 @@
-###Crear un servidor apache con Docker
+### Crear un servidor apache con Docker
 Necesitamos la imagen de Apache con soporte PHP, yo he escogido esta: https://hub.docker.com/_/php/
 
 ## Docker-compose
